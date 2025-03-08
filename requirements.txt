@@ -4,3 +4,4 @@ matplotlib
 requests
 openpyxl
 beautifulsoup4
+wget
