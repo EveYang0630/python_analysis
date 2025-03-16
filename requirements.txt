@@ -5,3 +5,4 @@ requests
 openpyxl
 beautifulsoup4
 wget
+seaborn
